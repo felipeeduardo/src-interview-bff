@@ -23,6 +23,15 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Develop an application where you connect with a graph-oriented database (Neo4j - https://neo4j.com/) and display the result of the query in graphQL.
+
+- Include packages if necessary
+- See official websites
+- Create a free base on Neo4j for your tests
+
+https://nestjs.com/
+https://neo4j.com/
+https://graphql.org/
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
